@@ -42,10 +42,6 @@
   color:            hsl(100, 50%, 50%);
 }
 
-.plainclass1 h4 {
-  color:            hsl(100, 50%, 50%);
-}
-
 .container {
   max-width:    70%;
   margin:       0 auto;
@@ -87,7 +83,7 @@
   padding-top:      24px;
   padding-bottom:   0px;
   padding-left:     30px;
-  font-size:        1.9em;
+  font-size:        1.4em;
   font-weight:      bold;
 }
 
@@ -97,9 +93,8 @@
   padding-top:      5px;
   padding-bottom:   5px;
   padding-left:     30px;
-  font-size:        1.3em;
+  font-size:        1.2em;
   font-weight:      bold;
-}
 }
 
 .youtube {
@@ -236,5 +231,3 @@ td {
 /*
  ************************************************************
  */
-
-
